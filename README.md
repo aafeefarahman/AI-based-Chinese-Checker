@@ -1,6 +1,7 @@
 ---
 <img width="1715" height="747" alt="image" src="https://github.com/user-attachments/assets/116e8021-3585-46a9-9d81-0631175fccfe" />
 This project implements a Chinese Checkers game with an AI opponent. The system uses a React frontend for the user interface and a Flask backend for handling game logic and AI decision-making.
+
 ---
 
 ## Overview
@@ -131,4 +132,3 @@ Feedback and suggestions are welcome for improving the project.
 
 ---
 
-👉 or keep it exactly like this (this is already solid and clean)
